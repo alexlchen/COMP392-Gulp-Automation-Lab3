@@ -1,0 +1,36 @@
+{
+  "name": "comp392-gulp-automation-lab3",
+  "version": "1.0.0",
+  "description": "COMP392-Gulp-Automation-Lab3 for Gulp Automation",
+  "main": "game.js",
+  "dependencies": {
+    "gulp-connect": "^2.3.1",
+    "gulp-inject": "^3.0.0",
+    "gulp-open": "^1.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.10.0",
+    "typescript": "^1.7.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-typescript": "^2.11.0",
+    "gulp-util": "^3.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlchen/COMP392-Gulp-Automation-Lab3.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "alexlchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexlchen/COMP392-Gulp-Automation-Lab3/issues"
+  },
+  "homepage": "https://github.com/alexlchen/COMP392-Gulp-Automation-Lab3#readme"
+}

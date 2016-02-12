@@ -1,0 +1,25 @@
+{
+  "name": "comp392-gulp-automation-lab3-mine",
+  "authors": [
+    "alexlchen"
+  ],
+  "description": "COMP392-gulp-automation-lab3-mine for Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
